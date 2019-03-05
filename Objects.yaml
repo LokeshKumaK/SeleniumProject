@@ -1,0 +1,10 @@
+Objects:
+  url_Google: https://google.com
+  HomePage:
+    txt_Search:
+      xpath: //input[@title='Search']
+    btn_Search:
+      name: btnK
+  ResultsPage:
+    lnk_Images:
+      frssd: Images
